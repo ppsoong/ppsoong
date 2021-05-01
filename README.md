@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### About Me
+
 #### Current Projects
 
 #### Finished Projects
